@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name":"Tony Le",
+    "description":"Welcome to my portfolio",
+    "image":"profilepic.jpg",
+    "bio":"I'm a dedicated and motivated Software Developer who loves to solve problems. I have 2+ years of designing, implementing, and delivering custom applications and software solutions. I can apply cutting-edge industry skills and knowledge such as Object-Oriented Design, website & app development/administration, and front-end and back-end tools in React environments. I'm an out-of-the-box thinker committed to punctual handover of deliverables while adapting to post-COVID work practices. ",
+    "contactmessage":"If my skills and qualifications seem like a good fit, please don't hesitate to contact me! Thank you.",
+    "email": "Tonyt.le2767@gmail.com",
+    "phone": "(206)-355-2767",
+    "github":"https://github.com/Tole-Git",
+    "project":"https://www.linkedin.com/in/tony-le-991915205/",
+    "address":{
+      "street":"10515 SE 233rd PL",
+      "city":"Kent",
+      "state":"WA",
+      "zip": "98031"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1SjQNSAHl-81YCMeOUN0ZeCWHXKYxE-5o/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tony-le-991915205/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Tole-Git",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Washington Tacoma",
+        "degree":"B.S. in Computer Science & Systems",
+        "graduated":"September 2020 - Present",
+        "description":"Algorithms, Data Structures, Computational Worlds, Advanced Software Engineering, Computer Operating Systems, Software Development & QA, Linear Algebra, Calculus 3 & 4, Statistics"
+      },
+      {
+        "school":"Bellevue College",
+        "degree":"Transfer prerequisites",
+        "graduated":"September 2017 - June 2020",
+        "description":"Java 1, Java 2, Calculus 1 & 2, Engineering Physics, Microeconomics"
+      },
+      {
+        "school":"Green River College",
+        "degree":"Highschool/College Dual Enrollment",
+        "graduated":"September 2015 - June 2016",
+        "description":"Public Speaking"
+      }
+    ],
+    "work":[
+      {
+        "company":"Fastenal",
+        "title":"Customer Site Support",
+        "years":"July 2018 - Present",
+        "description":"Managed warehouse inventory and utilized POS systems to direct operations. Saved 5 labor hours weekly by developing an automated inventory counting program. Drove continuous process improvements to enhance efficiency and customer satisfaction."
+      },
+      {
+        "company":"Convergent Outsourcing",
+        "title":"Collections Associate",
+        "years":"May 2018 - July 2018",
+        "description": "Worked as a full-time collections associate helping T-Mobile users pay off their debts. Consists of a few hundred calls a day, inbound and outbound cold-calls, and keeping track of follow-ups. Required the application of sales techniques, payment plans, discounts, and communicating with credit bereaus such as Equifax, Experian, and TransUnion in order to help relieve debtors from their debt."
+      },
+      {
+        "company":"Amazon",
+        "title":"Warehouse Associate",
+        "years":"September 2016 - April 2018",
+        "description":"Required a set pacing of either recieving, scanning, wrapping, or sorting."
+      },
+      {
+        "company":"Kmart",
+        "title":"Electronics Sales Associate",
+        "years":"January 2014 - September 2016",
+        "description":"Provide customer service either through phone call, in-person, online orders, selling warrenties, and applying customers for layaway or leases for specific products."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      },
+      {
+        "name":"Swift",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Personal Portfolio",
+        "category":"Website",
+        "image":"placeholder.png",
+        "url":"https://www.collinjnguyen.com"
+      },
+      {
+        "title":"EastSide Plating Program",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/EastsidePlatingProgram"
+      },
+      {
+        "title":"Space Cruise Game",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Space-Cruise-App"
+      },
+      {
+        "title":"Maze Generator and Solver",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Maze-Generator-And-Solver"
+      },
+      {
+        "title":"Story Maker",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/MarkovStoryMaker"
+      },
+      {
+        "title":"Obstruction Game",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Obstruction-Game"
+      },
+      {
+        "title":"Calculators",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/ProgrammingA3"
+      }
+
+      
+    ]
+  }
+}
