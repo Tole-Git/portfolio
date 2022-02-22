@@ -2,4 +2,4 @@
 
 Personal portfolio website made with JavaScript/React.
 
-Link: https://wwww.tonytle.com/
+Link: https://www.tonytle.com/
