@@ -104,7 +104,14 @@ class Resume extends Component {
                 Team Collaboration,  
                 UI/UX Frameworks,  
                 Scalable Design,  
-                Code Reviews</p>
+                Code Reviews,
+                SCRUM,
+                Iterations,
+                Sprint,
+                Load Testing,
+                Automated Testing,
+                JMeter,
+                Gantt</p>
             </div>
           </div>
         </Slide>
