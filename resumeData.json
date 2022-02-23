@@ -153,17 +153,24 @@
         "url":"https://github.com/Tole-Git/EastsidePlatingProgram"
       },
       {
-        "title":"Space Cruise Game",
+        "title":"JavaScript Zombie",
+        "category":"Website",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Zombie_Animation"
+      },
+      {
+        "title":"Space Cruise IOS Game",
         "category":"GitHub",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/Space-Cruise-App"
       },
       {
-        "title":"Maze Generator and Solver",
+        "title":"Brute Force, Dynamic Programming, Meet-in-the-Middle Algorithms",
         "category":"GitHub",
         "image":"placeholder.png",
-        "url":"https://github.com/Tole-Git/Maze-Generator-And-Solver"
+        "url":"https://github.com/Tole-Git/SubsetSum"
       },
+      
       {
         "title":"Story Maker",
         "category":"GitHub",
@@ -181,8 +188,19 @@
         "category":"GitHub",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/ProgrammingA3"
+      },
+      {
+        "title":"MineSweeper",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Minesweeper"
+      },
+      {
+        "title":"Maze Generator and Solver",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Maze-Generator-And-Solver"
       }
-
       
     ]
   }
