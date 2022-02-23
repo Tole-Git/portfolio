@@ -141,28 +141,40 @@
         "url":"https://tonytle.com"
       },
       {
-        "title":"Web based JS Game",
-        "category":"Website",
-        "image":"placeholder.png",
-        "url":"https://github.com/Tole-Git/Computational-World-Project/tree/main"
-      },
-      {
         "title":"EastSide Plating Program",
         "category":"GitHub",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/EastsidePlatingProgram"
       },
       {
-        "title":"JavaScript Zombie",
-        "category":"Website",
-        "image":"placeholder.png",
-        "url":"https://github.com/Tole-Git/Zombie_Animation"
-      },
-      {
         "title":"Space Cruise IOS Game",
         "category":"GitHub",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/Space-Cruise-App"
+      },
+      {
+        "title":"Story Maker",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/MarkovStoryMaker"
+      },
+      {
+        "title":"Obstruction Game",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Obstruction-Game"
+      },
+      {
+        "title":"Calculators",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/ProgrammingA3"
+      },
+      {
+        "title":"Maze Generator and Solver",
+        "category":"GitHub",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Maze-Generator-And-Solver"
       }
     ]
   }
