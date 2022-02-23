@@ -111,10 +111,6 @@
         "level":"60%"
       },
       {
-        "name":"Go",
-        "level":"80%"
-      },
-      {
         "name":"SQL",
         "level":"50%"
       },
@@ -125,10 +121,6 @@
       {
         "name":"Python",
         "level":"50%"
-      },
-      {
-        "name":"C",
-        "level":"70%"
       }
     ]
   },
