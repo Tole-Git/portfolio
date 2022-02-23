@@ -3,7 +3,7 @@
     "name":"Tony Le",
     "description":"Welcome to my portfolio",
     "image":"profilepic.jpg",
-    "bio":"I'm a dedicated and motivated Software Developer who loves to solve problems. I have 2+ years of designing, implementing, and delivering custom applications and software solutions. I can apply cutting-edge industry skills and knowledge such as Object-Oriented Design, website & app development/administration, and front-end and back-end tools in React environments. I'm an out-of-the-box thinker committed to punctual handover of deliverables while adapting to post-COVID work practices. ",
+    "bio":"I'm a dedicated and motivated Software Developer with interests in data analysis, automation, web/mobile base applications, team collaboration, and project management. My go-to tools for project organization and planning is Jira and Confluence. My peers have described me as a person who is exceptional, takes charge, organizes and leads, easily collaborative, and a person who provides quality deliverables early. I can apply cutting-edge industry skills and knowledge such as Object-Oriented Design, algorithms, front-end and back-end tools in React environments, and SCRUM development practices. I'm an out-of-the-box thinker committed to punctual handover of deliverables while adapting to post-COVID work practices.",
     "contactmessage":"If my skills and qualifications seem like a good fit, please don't hesitate to contact me! Thank you.",
     "email": "Tonyt.le2767@gmail.com",
     "phone": "(206)-355-2767",
@@ -51,7 +51,7 @@
         "school":"University of Washington Tacoma",
         "degree":"B.S. in Computer Science & Systems",
         "graduated":"September 2020 - Present",
-        "description":"Algorithms, Data Structures, Computational Worlds, Advanced Software Engineering, Computer Operating Systems, Software Development & QA, Linear Algebra, Calculus 3 & 4, Statistics"
+        "description":"Algorithms, Data Structures, Computational Worlds, Advanced Software Engineering, Computer Operating Systems, Software Development & QA, Linear Algebra, Database Systems, Statistics"
       },
       {
         "school":"Bellevue College",
@@ -83,24 +83,25 @@
         "company":"Amazon",
         "title":"Warehouse Associate",
         "years":"September 2016 - April 2018",
-        "description":"Required a set pacing of either recieving, scanning, wrapping, or sorting."
+        "description":"Required a set pacing of either receiving, scanning, wrapping, or sorting."
       },
       {
         "company":"Kmart",
         "title":"Electronics Sales Associate",
         "years":"January 2014 - September 2016",
-        "description":"Provide customer service either through phone call, in-person, online orders, selling warrenties, and applying customers for layaway or leases for specific products."
+        "description":"Provide customer service either through phone call, in-person, online orders, selling warrenties, and applying customers for layaway or lease specific products."
       }
     ],
     "skills":[
       {
         "name":"Java",
-        "level":"80%"
+        "level":"100%"
       },
       {
         "name":"JavaScript",
-        "level":"70%"
+        "level":"100%"
       },
+      
       {
         "name":"HTML",
         "level":"70%"
@@ -108,6 +109,10 @@
       {
         "name":"CSS",
         "level":"60%"
+      },
+      {
+        "name":"Go",
+        "level":"80%"
       },
       {
         "name":"SQL",
@@ -120,11 +125,21 @@
       {
         "name":"Python",
         "level":"50%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Web-based Javascript Game",
+        "category":"Website",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Computational-World-Project/tree/main"
+      },
       {
         "title":"Personal Portfolio",
         "category":"Website",
