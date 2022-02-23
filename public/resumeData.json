@@ -163,20 +163,7 @@
         "category":"GitHub",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/Space-Cruise-App"
-      },
-      {
-        "title":"SubsetSum",
-        "category":"GitHub",
-        "image":"placeholder.png",
-        "url":"https://github.com/Tole-Git/SubsetSum"
-      },
-      {
-        "title":"MineSweeper",
-        "category":"GitHub",
-        "image":"placeholder.png",
-        "url":"https://github.com/Tole-Git/Minesweeper"
       }
-      
     ]
   }
 }
