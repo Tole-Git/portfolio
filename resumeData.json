@@ -135,16 +135,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Web-based JS Game",
-        "category":"Website",
-        "image":"placeholder.png",
-        "url":"https://github.com/Tole-Git/Computational-World-Project/tree/main"
-      },
-      {
         "title":"Personal Portfolio",
         "category":"Website",
         "image":"placeholder.png",
         "url":"https://tonytle.com"
+      },
+      {
+        "title":"Web based JS Game",
+        "category":"Website",
+        "image":"placeholder.png",
+        "url":"https://github.com/Tole-Git/Computational-World-Project/tree/main"
       },
       {
         "title":"EastSide Plating Program",
