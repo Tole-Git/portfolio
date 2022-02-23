@@ -135,7 +135,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Web-based Javascript Game",
+        "title":"Web-based JS Game",
         "category":"Website",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/Computational-World-Project/tree/main"
@@ -153,7 +153,7 @@
         "url":"https://github.com/Tole-Git/EastsidePlatingProgram"
       },
       {
-        "title":"JavaScript Zombie",
+        "title":"JS Zombie",
         "category":"Website",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/Zombie_Animation"
@@ -165,11 +165,12 @@
         "url":"https://github.com/Tole-Git/Space-Cruise-App"
       },
       {
-        "title":"Brute Force, Dynamic Programming, Meet-in-the-Middle Algorithms",
+        "title":"SubsetSum",
         "category":"GitHub",
         "image":"placeholder.png",
         "url":"https://github.com/Tole-Git/SubsetSum"
       },
+      
       {
         "title":"Story Maker",
         "category":"GitHub",
